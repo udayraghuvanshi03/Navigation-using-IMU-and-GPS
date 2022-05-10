@@ -1,0 +1,9 @@
+Header header
+std_msgs/Float64 latitude
+std_msgs/Float64 longitude
+std_msgs/Float64 altitude
+std_msgs/Float64 utm_easting
+std_msgs/Float64 utm_northing
+std_msgs/Float64 zone_num
+std_msgs/String zone_letter
+std_msgs/Int64 quality
